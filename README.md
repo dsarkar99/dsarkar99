@@ -1,6 +1,6 @@
 # Hello, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 🌱 I’m currently learning : Angular, Codeignitor ,Node Js
+- 🌱 I’m currently working on : Angular, Codeignitor ,Node JS, Express JS
 
 
 
